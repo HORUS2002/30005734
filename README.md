@@ -28,7 +28,7 @@ The Clinic Management System is a console-based Java application designed to hel
 
 - JDK 8 or higher
 - MySQL 5.7 or higher
-- Eclipse IDE (optional, but recommended for development)
+- Eclipse IDE (optional, but recommended for this project)
 - MySQL JDBC Driver
 
 
