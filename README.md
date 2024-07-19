@@ -34,15 +34,8 @@ The Clinic Management System is a console-based Java application designed to hel
 
 ## Installation
 
-### Step 1: Clone or Download the Repository
-
-1. Clone the repository using Git (if you have Git installed):
-   ```bash
-   git clone https://github.com/yourusername/clinic-management-system.git
-   ```
-or
-
-2. Download the ZIP file from GitHub and extract it:
+### Step 1: Download the Repository
+     - Download the ZIP file from GitHub and extract it:
      - Go to the GitHub repository.
      - Click the green `Code` button.
      - Select `Download ZIP`.
