@@ -55,16 +55,16 @@ or
 1. Open Eclipse IDE.
 
 2. Import the project:
-      -Go to `File` > `Import...`.
-      -Select `General` > `Existing Projects into Workspace`.
-      -Click `Next`.
-      -Browse to the directory where you extracted the project.
-      -Select the project and click Finish.
+      - Go to `File` > `Import...`.
+      - Select `General` > `Existing Projects into Workspace`.
+      - Click `Next`.
+      - Browse to the directory where you extracted the project.
+      - Select the project and click Finish.
 
 3. Add MySQL JDBC Driver to the build path:
-      -Right-click on the project in Project Explorer.
-      -Select `Build Path` > `Add External Archives...`.
-      -Browse to the location of the MySQL JDBC Driver JAR file provided (or the one already present in the local system) and add it.
+      - Right-click on the project in Project Explorer.
+      - Select `Build Path` > `Add External Archives...`.
+      - Browse to the location of the MySQL JDBC Driver JAR file provided (or the one already present in the local system) and add it.
 
 ### Step 4: Build and Run the Project
 
