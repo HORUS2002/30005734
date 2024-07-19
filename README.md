@@ -42,7 +42,7 @@ The Clinic Management System is a console-based Java application designed to hel
    ```
 or
 
-2. -Download the ZIP file from GitHub and extract it:
+2. Download the ZIP file from GitHub and extract it:
      -Go to the GitHub repository.
      -Click the green `Code` button.
      -Select `Download ZIP`.
