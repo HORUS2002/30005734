@@ -39,7 +39,7 @@ The Clinic Management System is a console-based Java application designed to hel
 1. Clone the repository using Git (if you have Git installed):
    ```bash
    git clone https://github.com/yourusername/clinic-management-system.git
-
+   ```
 or
 
 2. -Download the ZIP file from GitHub and extract it:
@@ -98,7 +98,7 @@ ClinicManagementSystem
 │       └── DBUtil.java
 └── Referenced Libraries
     └── mysql-connector-j-9.0.0.jar
-
+```
 
 ## Viewing Data in MySQL
 
@@ -109,22 +109,27 @@ ClinicManagementSystem
 2. Connect to your MySQL server:
 ```bash
 mysql -u root -p
+```
 
 3. Switch to the `clinic` database:
 ```sql
 USE clinic;
+```
 
 4. View data in the `Patient` table:
 ```sql
 SELECT * FROM Patient;
+```
 
 5. View data in the `Appointment` table:
 ```sql
 SELECT * FROM Appointment;
+```
 
 6. View data in the `MedicalRecord` table:
 ```sql
 SELECT * FROM MedicalRecord;
+```
 
 ### Using MySQL Workbench
 
@@ -137,9 +142,12 @@ SELECT * FROM MedicalRecord;
 4. Use the SQL Editor to run queries like:
 ```sql
 SELECT * FROM Patient;
+```
 
 ```sql
 SELECT * FROM Appointment;
+```
 
 ```sql
 SELECT * FROM MedicalRecord;
+```
